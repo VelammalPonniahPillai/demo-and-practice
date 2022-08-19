@@ -2,5 +2,4 @@ rainbow
 blue
 green
 yellow
-pink
-red
+
